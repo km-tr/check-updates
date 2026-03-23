@@ -1,6 +1,6 @@
 # check-updates
 
-VoltAgentリポジトリの更新確認ログ。
+A daily update log for tracked GitHub repositories.
 
 ---
 
