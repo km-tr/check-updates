@@ -4,9 +4,7 @@ VoltAgentリポジトリの更新確認ログ。
 
 ---
 
-## awesome-claude-code-subagents
-
-https://github.com/VoltAgent/awesome-claude-code-subagents
+## [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
 
 | 確認日 | リンク |
 |--------|--------|
@@ -14,9 +12,7 @@ https://github.com/VoltAgent/awesome-claude-code-subagents
 
 ---
 
-## awesome-codex-subagents
-
-https://github.com/VoltAgent/awesome-codex-subagents
+## [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)
 
 | 確認日 | リンク |
 |--------|--------|
