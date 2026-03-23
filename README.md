@@ -8,7 +8,7 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日 | リンク |
 |--------|--------|
-| 2026-03-23 | [2026-03-23](./awesome-claude-code-subagents/2026-03-23.md) |
+| 2026-03-23 | [2026-03-23T0444Z](./awesome-claude-code-subagents/2026-03-23T0444Z.md) |
 
 ---
 
@@ -16,4 +16,4 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日 | リンク |
 |--------|--------|
-| 2026-03-23 | [2026-03-23](./awesome-codex-subagents/2026-03-23.md) |
+| 2026-03-23 | [2026-03-23T0444Z](./awesome-codex-subagents/2026-03-23T0444Z.md) |
