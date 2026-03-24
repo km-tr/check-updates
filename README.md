@@ -8,6 +8,7 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-03-24 03:04 UTC](./awesome-claude-code-subagents/2026-03-24T0304Z.md) | expo-react-native-expert・fastapi-developer・reinforcement-learning-engineer追加（計129件）。rails-expertをRails 7.x/8.x両対応に大規模改修。 |
 | [2026-03-23 04:44 UTC](./awesome-claude-code-subagents/2026-03-23T0444Z.md) | README刷新・関連collectionsクロスリンク追加、科学文献調査エージェント追加、Taskade AI Agents・docker-expert受け入れ、CIバージョン管理強化。 |
 
 ---
