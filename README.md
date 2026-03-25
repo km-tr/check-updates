@@ -13,6 +13,14 @@ A daily update log for tracked GitHub repositories.
 
 ---
 
+## [obra/superpowers](https://github.com/obra/superpowers)
+
+| 確認日時 | 概要 |
+|----------|------|
+| [2026-03-25 03:42 UTC](./superpowers/2026-03-25T0342Z.md) | v5.0.4/5.0.5リリース（レビューループ改善・OpenCodeプラグイン自動登録・WindowsバグFix）、行動規範・Issueテンプレート追加。 |
+
+---
+
 ## [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)
 
 | 確認日時 | 概要 |
