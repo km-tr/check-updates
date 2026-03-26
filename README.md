@@ -17,6 +17,7 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-03-26 03:09 UTC](./superpowers/2026-03-26T0309Z.md) | v5.0.6リリース（インラインself-review導入・brainstormサーバー再構成・owner-PID修正）、Codex App互換性仕様（PRI-823）追加。 |
 | [2026-03-25 03:42 UTC](./superpowers/2026-03-25T0342Z.md) | v5.0.4/5.0.5リリース（レビューループ改善・OpenCodeプラグイン自動登録・WindowsバグFix）、行動規範・Issueテンプレート追加。 |
 
 ---
@@ -26,11 +27,3 @@ A daily update log for tracked GitHub repositories.
 | 確認日時 | 概要 |
 |----------|------|
 | [2026-03-23 04:44 UTC](./awesome-codex-subagents/2026-03-23T0444Z.md) | リポジトリ新設（10カテゴリ構成）、CONTRIBUTING.md・MITライセンス追加、README強化・関連collectionsリンク追加、Erlang専門エージェント受け入れ。 |
-
----
-
-## [obra/superpowers](https://github.com/obra/superpowers)
-
-| 確認日時 | 概要 |
-|----------|------|
-| [2026-03-26 03:09 UTC](./superpowers/2026-03-26T0309Z.md) | 初回確認。v5.0.6（インラインself-review・brainstormサーバー再構成・PID修正）リリース、Codex App互換性仕様（PRI-823）追加、v5.0.0〜5.0.5の各リリース記録。 |
