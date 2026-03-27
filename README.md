@@ -28,11 +28,3 @@ A daily update log for tracked GitHub repositories.
 | 確認日時 | 概要 |
 |----------|------|
 | [2026-03-23 04:44 UTC](./awesome-codex-subagents/2026-03-23T0444Z.md) | リポジトリ新設（10カテゴリ構成）、CONTRIBUTING.md・MITライセンス追加、README強化・関連collectionsリンク追加、Erlang専門エージェント受け入れ。 |
-
----
-
-## [obra/superpowers](https://github.com/obra/superpowers)
-
-| 確認日時 | 概要 |
-|----------|------|
-| [2026-03-27 03:12 UTC](./superpowers/2026-03-27T0312Z.md) | v5.0.6リリース：インライン自己レビュー実装、brainstormサーバーをcontent/stateに分離、owner-PIDのクロスプラットフォーム修正。 |
