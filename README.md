@@ -8,6 +8,7 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-03-29 03:09 UTC](./awesome-claude-code-subagents/2026-03-29T0309Z.md) | symfony-specialist追加（Symfony 6+/7+/8+専門）。リサーチ系5エージェント（competitive-analyst等）のモデルをHaikuからSonnetに引き上げ。 |
 | [2026-03-24 03:04 UTC](./awesome-claude-code-subagents/2026-03-24T0304Z.md) | expo-react-native-expert・fastapi-developer・reinforcement-learning-engineer追加（計129件）。rails-expertをRails 7.x/8.x両対応に大規模改修。 |
 | [2026-03-23 04:44 UTC](./awesome-claude-code-subagents/2026-03-23T0444Z.md) | README刷新・関連collectionsクロスリンク追加、科学文献調査エージェント追加、Taskade AI Agents・docker-expert受け入れ、CIバージョン管理強化。 |
 
@@ -18,3 +19,11 @@ A daily update log for tracked GitHub repositories.
 | 確認日時 | 概要 |
 |----------|------|
 | [2026-03-23 04:44 UTC](./awesome-codex-subagents/2026-03-23T0444Z.md) | リポジトリ新設（10カテゴリ構成）、CONTRIBUTING.md・MITライセンス追加、README強化・関連collectionsリンク追加、Erlang専門エージェント受け入れ。 |
+
+---
+
+## [obra/superpowers](https://github.com/obra/superpowers)
+
+| 確認日時 | 概要 |
+|----------|------|
+| [2026-03-29 03:09 UTC](./superpowers/2026-03-29T0309Z.md) | v5.0.6リリース（inline self-review導入・brainstorm server再構成・owner-PID修正）。Codex App互換性設計仕様整備。issue/PRテンプレート・CoC追加。 |
