@@ -18,6 +18,7 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-04-01 03:08 UTC](./superpowers/2026-04-01T0308Z.md) | v5.0.7リリース（Copilot CLI対応・OpenCode bootstrap修正）。AIエージェント向けコントリビューターガイドライン（CLAUDE.md）追加でスロップPR抑制。 |
 | [2026-03-26 03:09 UTC](./superpowers/2026-03-26T0309Z.md) | v5.0.6リリース（インラインself-review導入・brainstormサーバー再構成・owner-PID修正）、Codex App互換性仕様（PRI-823）追加。 |
 | [2026-03-25 03:42 UTC](./superpowers/2026-03-25T0342Z.md) | v5.0.4/5.0.5リリース（レビューループ改善・OpenCodeプラグイン自動登録・WindowsバグFix）、行動規範・Issueテンプレート追加。 |
 
