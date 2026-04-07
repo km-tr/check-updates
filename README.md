@@ -27,5 +27,6 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-04-07 03:15 UTC](./superpowers/2026-04-07T0315Z.md) | DiscordのCommunityセクション招待リンクを2段階で更新・修正。 |
 | [2026-04-02 03:21 UTC](./superpowers/2026-04-02T0321Z.md) | v5.0.7リリース（Copilot CLI対応・OpenCode修正）。CLAUDE.mdにコントリビュータガイドライン追加（agentic slop PR削減）。READMEのCommunityセクション刷新。 |
 | [2026-03-29 03:09 UTC](./superpowers/2026-03-29T0309Z.md) | v5.0.6リリース（inline self-review導入・brainstorm server再構成・owner-PID修正）。Codex App互換性設計仕様整備。issue/PRテンプレート・CoC追加。 |
