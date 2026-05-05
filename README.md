@@ -28,8 +28,8 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-05-05 03:12 UTC](./superpowers/2026-05-05T0312Z.md) | v5.1.0リリース。worktreeスキル全面書き直し（detect-and-defer）、レガシースラッシュコマンド廃止、OpenCodeキャッシュ最適化、Gemini CLI対応追加、code-reviewerエージェント統合。 |
 | [2026-05-01 03:08 UTC](./superpowers/2026-05-01T0308Z.md) | 新ハーネスサポートPRにセッショントランスクリプト添付を必須化。PR templateとCLAUDE.mdにNew Harness Supportセクションを追加。 |
 | [2026-04-24 03:01 UTC](./superpowers/2026-04-24T0301Z.md) | Codex plugin設定をリポジトリ直管理に移行・sync-to-codex-plugin.shを改修（生成→追跡ファイル同期方式）・571行の回帰テスト新設。 |
 | [2026-04-17 03:07 UTC](./superpowers/2026-04-17T0307Z.md) | sync-to-codex-plugin.sh 新設（Codex Plugin自動ミラー・PR作成対応）、defaultPromptシード追加、README Codex向け刷新。 |
 | [2026-04-07 03:15 UTC](./superpowers/2026-04-07T0315Z.md) | DiscordのCommunityセクション招待リンクを2段階で更新・修正。 |
-| [2026-04-02 03:21 UTC](./superpowers/2026-04-02T0321Z.md) | v5.0.7リリース（Copilot CLI対応・OpenCode修正）。CLAUDE.mdにコントリビュータガイドライン追加（agentic slop PR削減）。READMEのCommunityセクション刷新。 |
