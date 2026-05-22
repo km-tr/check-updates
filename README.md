@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-05-22 03:09 UTC](./awesome-claude-code-subagents/2026-05-22T0309Z.md) | qa-secプラグインのplugin.jsonに存在しない2エージェント参照が残りロードエラーが発生していたため当該エントリを削除して修正（PR #239）。 |
 | [2026-04-21 03:06 UTC](./awesome-claude-code-subagents/2026-04-21T0306Z.md) | ui-ux-tester・codebase-orchestrator・healthcare-admin・node-specialistの4新エージェント追加、qa-secプラグインをv1.1.0に更新。 |
 | [2026-04-18 03:18 UTC](./awesome-claude-code-subagents/2026-04-18T0318Z.md) | README.mdから不要なHTMLタグ（VoltAgentバナー・`<br />`）を削除してフォーマットをクリーンアップ。 |
 | [2026-04-02 03:21 UTC](./awesome-claude-code-subagents/2026-04-02T0321Z.md) | license-engineer・project-idea-validator・readme-generator・design-bridge・ai-writing-auditorの5サブエージェントとAIRIS MCP Gatewayを追加。 |
 | [2026-03-29 03:09 UTC](./awesome-claude-code-subagents/2026-03-29T0309Z.md) | symfony-specialist追加（Symfony 6+/7+/8+専門）。リサーチ系5エージェント（competitive-analyst等）のモデルをHaikuからSonnetに引き上げ。 |
-| [2026-03-24 03:04 UTC](./awesome-claude-code-subagents/2026-03-24T0304Z.md) | expo-react-native-expert・fastapi-developer・reinforcement-learning-engineer追加（計129件）。rails-expertをRails 7.x/8.x両対応に大規模改修。 |
 
 ---
 
