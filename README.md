@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-06-18 03:02 UTC](./awesome-claude-code-subagents/2026-06-18T0302Z.md) | Ecosystem ToolsスポンサーをVoltAgentからLaunchKitに全面移行。バナー差し替え後さらにlaunchkit-banner-3.pngに更新（+5/-6行）。 |
 | [2026-06-17 03:01 UTC](./awesome-claude-code-subagents/2026-06-17T0301Z.md) | LaunchKit バナー画像を banner-1 から banner-3 に差し替え（+1/-1行）。 |
 | [2026-06-16 03:02 UTC](./awesome-claude-code-subagents/2026-06-16T0302Z.md) | README.mdのEcosystem ToolsセクションでVoltAgentバナーをLaunchKitバナーに差し替え（+4/-5行）。 |
 | [2026-05-28 03:06 UTC](./awesome-claude-code-subagents/2026-05-28T0306Z.md) | README.mdにEcosystem ToolsセクションとVoltAgentバナー・スポンサー募集テーブルを追加（+24行）。 |
 | [2026-05-26 03:11 UTC](./awesome-claude-code-subagents/2026-05-26T0311Z.md) | MoAI-ADK追加、visual-asset-generator・content-quality-editor追加、8プロダクト管理・コンプライアンス系エージェント追加、プラグインバージョン更新・README刷新。 |
-| [2026-05-22 03:09 UTC](./awesome-claude-code-subagents/2026-05-22T0309Z.md) | qa-secプラグインのplugin.jsonに存在しない2エージェント参照が残りロードエラーが発生していたため当該エントリを削除して修正（PR #239）。 |
 
 ---
 
@@ -30,8 +30,8 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-06-18 03:02 UTC](./superpowers/2026-06-18T0302Z.md) | v6.0.0→v6.0.1→v6.0.2リリース。ビジュアルコンパニオン大規模強化・SDD改善・Kimi/Antigravity対応・v6.0.2でevals除外（160+コミット）。 |
 | [2026-06-17 03:01 UTC](./superpowers/2026-06-17T0301Z.md) | v6.0.1リリース。ビジュアルコンパニオン強化・SDD最適化・Kimi/Antigravity/Piハーネス追加・evalsサブモジュール化（159コミット）。 |
 | [2026-06-16 03:02 UTC](./superpowers/2026-06-16T0302Z.md) | README.mdに採用告知セクション「We're Hiring!」を追加。フルタイムのコミュニティ＆コードワーク担当を募集（+7行）。 |
 | [2026-05-30 03:06 UTC](./superpowers/2026-05-30T0306Z.md) | コントリビューター向け開示義務を強化。PRテンプレート・issueテンプレート・CLAUDE.mdに使用モデル・ハーネス・プラグイン情報の必須記載とdevブランチターゲット必須化を追加（+53行）。 |
 | [2026-05-05 03:12 UTC](./superpowers/2026-05-05T0312Z.md) | v5.1.0リリース。worktreeスキル全面書き直し（detect-and-defer）、レガシースラッシュコマンド廃止、OpenCodeキャッシュ最適化、Gemini CLI対応追加、code-reviewerエージェント統合。 |
-| [2026-05-01 03:08 UTC](./superpowers/2026-05-01T0308Z.md) | 新ハーネスサポートPRにセッショントランスクリプト添付を必須化。PR templateとCLAUDE.mdにNew Harness Supportセクションを追加。 |
