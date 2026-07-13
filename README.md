@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-07-13 03:01 UTC](./awesome-claude-code-subagents/2026-07-13T0301Z.md) | LaunchKitバナー削除・スポンサーセクション再構成・Ego LiteリンクのUTMパラメータ更新（5コミット）。 |
 | [2026-06-25 03:01 UTC](./awesome-claude-code-subagents/2026-06-25T0301Z.md) | READMEのassistantsタイポ修正と25サブエージェントのモデル指定をopusからinheritへ一括変更（4コミット）。 |
 | [2026-06-18 03:02 UTC](./awesome-claude-code-subagents/2026-06-18T0302Z.md) | Ecosystem ToolsスポンサーをVoltAgentからLaunchKitに全面移行。バナー差し替え後さらにlaunchkit-banner-3.pngに更新（+5/-6行）。 |
 | [2026-06-17 03:01 UTC](./awesome-claude-code-subagents/2026-06-17T0301Z.md) | LaunchKit バナー画像を banner-1 から banner-3 に差し替え（+1/-1行）。 |
 | [2026-06-16 03:02 UTC](./awesome-claude-code-subagents/2026-06-16T0302Z.md) | README.mdのEcosystem ToolsセクションでVoltAgentバナーをLaunchKitバナーに差し替え（+4/-5行）。 |
-| [2026-05-28 03:06 UTC](./awesome-claude-code-subagents/2026-05-28T0306Z.md) | README.mdにEcosystem ToolsセクションとVoltAgentバナー・スポンサー募集テーブルを追加（+24行）。 |
 
 ---
 
@@ -20,6 +20,7 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-07-13 03:01 UTC](./awesome-codex-subagents/2026-07-13T0301Z.md) | Ecosystem Tools/LaunchKitバナー削除・スポンサーテーブル整理・Ego LiteリンクのUTMパラメータ更新（6コミット）。 |
 | [2026-06-25 03:01 UTC](./awesome-codex-subagents/2026-06-25T0301Z.md) | 5新規サブエージェント追加（design-bridge・healthcare-admin・ab-test-analysis・cohort-analysis・first-principles-thinking）（2コミット）。 |
 | [2026-05-28 03:06 UTC](./awesome-codex-subagents/2026-05-28T0306Z.md) | README.mdにEcosystem ToolsセクションとVoltAgentバナー・スポンサー募集テーブルを追加（+26行）。 |
 | [2026-05-26 03:11 UTC](./awesome-codex-subagents/2026-05-26T0311Z.md) | AIガバナンス・Platform Engineering・LLMOpsの3カテゴリ（12エージェント）新設、Symfony・content-quality-editor・visual-asset-generator等17エージェント一括追加。 |
