@@ -32,8 +32,8 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-07-24 03:00 UTC](./superpowers/2026-07-24T0300Z.md) | v6.2.0リリース。SDDプランスコープワークスペース・再開ベースフィックスループ・スキル圧縮・Windows SessionStart修正（50コミット）。 |
 | [2026-07-03 03:07 UTC](./superpowers/2026-07-03T0307Z.md) | v6.1.1リリース。Codex SessionStart hookの二重登録バグ修正（hooks:{}明示）とCodexポータル向けパッケージングスクリプト追加（10コミット）。 |
 | [2026-07-01 03:01 UTC](./superpowers/2026-07-01T0301Z.md) | v6.1.0リリース。Gemini CLI削除・Codexマーケットプレイス追加・ブートストラップ圧縮・Codex hooks削除でトークンコスト削減（9コミット）。 |
 | [2026-06-19 03:03 UTC](./superpowers/2026-06-19T0303Z.md) | v6.0.3リリース。SDD成果物保存先を.git/から.superpowers/sdd/（ワーキングツリー）に移行、ws依存の脆弱性2件修正（7コミット）。 |
 | [2026-06-18 03:02 UTC](./superpowers/2026-06-18T0302Z.md) | v6.0.0→v6.0.1→v6.0.2リリース。ビジュアルコンパニオン大規模強化・SDD改善・Kimi/Antigravity対応・v6.0.2でevals除外（160+コミット）。 |
-| [2026-06-17 03:01 UTC](./superpowers/2026-06-17T0301Z.md) | v6.0.1リリース。ビジュアルコンパニオン強化・SDD最適化・Kimi/Antigravity/Piハーネス追加・evalsサブモジュール化（159コミット）。 |
