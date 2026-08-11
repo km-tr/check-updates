@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-08-11 03:08 UTC](./awesome-claude-code-subagents/2026-08-11T0308Z.md) | READMEからEgo Liteスポンサーセクションを削除（-6行）（1コミット）。 |
 | [2026-08-01 03:06 UTC](./awesome-claude-code-subagents/2026-08-01T0306Z.md) | EveryFeed・LaunchKitのプロモーションコンテンツをREADMEに追加（1コミット）。 |
 | [2026-07-13 03:01 UTC](./awesome-claude-code-subagents/2026-07-13T0301Z.md) | LaunchKitバナー削除・スポンサーセクション再構成・Ego LiteリンクのUTMパラメータ更新（5コミット）。 |
 | [2026-06-25 03:01 UTC](./awesome-claude-code-subagents/2026-06-25T0301Z.md) | READMEのassistantsタイポ修正と25サブエージェントのモデル指定をopusからinheritへ一括変更（4コミット）。 |
 | [2026-06-18 03:02 UTC](./awesome-claude-code-subagents/2026-06-18T0302Z.md) | Ecosystem ToolsスポンサーをVoltAgentからLaunchKitに全面移行。バナー差し替え後さらにlaunchkit-banner-3.pngに更新（+5/-6行）。 |
-| [2026-06-17 03:01 UTC](./awesome-claude-code-subagents/2026-06-17T0301Z.md) | LaunchKit バナー画像を banner-1 から banner-3 に差し替え（+1/-1行）。 |
 
 ---
 
