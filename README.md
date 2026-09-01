@@ -20,11 +20,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-09-01 03:05 UTC](./awesome-codex-subagents/2026-09-01T0305Z.md) | 全サブエージェントのモデルをGPT-5.6に一括移行、Azure Databricksアーキテクト・resume-refiner 2新エージェント追加（4コミット）。 |
 | [2026-07-13 03:01 UTC](./awesome-codex-subagents/2026-07-13T0301Z.md) | Ecosystem Tools/LaunchKitバナー削除・スポンサーテーブル整理・Ego LiteリンクのUTMパラメータ更新（6コミット）。 |
 | [2026-06-25 03:01 UTC](./awesome-codex-subagents/2026-06-25T0301Z.md) | 5新規サブエージェント追加（design-bridge・healthcare-admin・ab-test-analysis・cohort-analysis・first-principles-thinking）（2コミット）。 |
 | [2026-05-28 03:06 UTC](./awesome-codex-subagents/2026-05-28T0306Z.md) | README.mdにEcosystem ToolsセクションとVoltAgentバナー・スポンサー募集テーブルを追加（+26行）。 |
 | [2026-05-26 03:11 UTC](./awesome-codex-subagents/2026-05-26T0311Z.md) | AIガバナンス・Platform Engineering・LLMOpsの3カテゴリ（12エージェント）新設、Symfony・content-quality-editor・visual-asset-generator等17エージェント一括追加。 |
-| [2026-03-23 04:44 UTC](./awesome-codex-subagents/2026-03-23T0444Z.md) | リポジトリ新設（10カテゴリ構成）、CONTRIBUTING.md・MITライセンス追加、README強化・関連collectionsリンク追加、Erlang専門エージェント受け入れ。 |
 
 ---
 
