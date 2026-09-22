@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-09-22 03:07 UTC](./awesome-claude-code-subagents/2026-09-22T0307Z.md) | READMEに「AI Design + Build Ecosystem Tools」セクション新設。EveryFeed・LaunchKit・Mobile StarterKitの3スポンサーツールを追加（1コミット）。 |
 | [2026-09-15 03:05 UTC](./awesome-claude-code-subagents/2026-09-15T0305Z.md) | memory-curator追加（meta-orchestration、ストレージ非依存）、auth-integration-engineer・webhook-engineer追加、core-devREADMEの古いWordPress参照削除（7コミット）。 |
 | [2026-09-08 03:05 UTC](./awesome-claude-code-subagents/2026-09-08T0305Z.md) | SerpApiスポンサーリンクを汎用UTMパラメータURLからリポジトリ専用パスへ変更（1コミット）。 |
 | [2026-09-05 03:05 UTC](./awesome-claude-code-subagents/2026-09-05T0305Z.md) | SerpApiをスポンサーテーブルに追加。AIアプリ向けウェブ検索APIで、Markdown・JSON両形式対応（1コミット）。 |
 | [2026-09-03 03:05 UTC](./awesome-claude-code-subagents/2026-09-03T0305Z.md) | CrawlbaseリンクをショートURLからUTMパラメータ付き直接URLへ差し替え、ロゴ画像パスを`crawlbase-new`へ更新（2コミット）。 |
-| [2026-09-02 03:05 UTC](./awesome-claude-code-subagents/2026-09-02T0305Z.md) | READMEにSponsorsセクション新設、CrawlbaseをスポンサーとしてAIエージェント向けCrawling API・MCPサーバーの紹介と募集バッジを追加（1コミット）。 |
 
 ---
 
@@ -20,11 +20,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-09-22 03:07 UTC](./awesome-codex-subagents/2026-09-22T0307Z.md) | READMEに「AI Design + Build Ecosystem Tools」セクション新設。EveryFeed・LaunchKit・Mobile StarterKitの3スポンサーツールを追加（1コミット）。 |
 | [2026-09-15 03:05 UTC](./awesome-codex-subagents/2026-09-15T0305Z.md) | quality-securityカテゴリにanti-ui-slop reviewerサブエージェント追加。UIスロップ（肥大化スタイリングコード）を検出・リファクタリング支援するCodexエージェント（3コミット）。 |
 | [2026-09-08 03:05 UTC](./awesome-codex-subagents/2026-09-08T0305Z.md) | SerpApiスポンサーリンクを汎用UTMパラメータURLからリポジトリ専用パスへ変更（1コミット）。 |
 | [2026-09-05 03:05 UTC](./awesome-codex-subagents/2026-09-05T0305Z.md) | SerpApiをスポンサーテーブルに追加。AIアプリ向けウェブ検索APIで、Markdown・JSON両形式対応（1コミット）。 |
 | [2026-09-03 03:05 UTC](./awesome-codex-subagents/2026-09-03T0305Z.md) | CrawlbaseリンクをショートURLからUTMパラメータ付き直接URLへ差し替え、ロゴ画像パスを`crawlbase-new`へ更新（2コミット）。 |
-| [2026-09-02 03:05 UTC](./awesome-codex-subagents/2026-09-02T0305Z.md) | スポンサーテーブルのEgo LiteをCrawlbaseに差し替え。AIエージェント向けCrawling API・MCPサーバーを提供するウェブデータインフラ（1コミット）。 |
 
 ---
 
