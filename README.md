@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-10-12 03:14 UTC](./awesome-claude-code-subagents/2026-10-12T0314Z.md) | surgeon-reviewer（重大度ティア型コードレビュー）・telegram-ads-analyst（Telegram広告分析）の新サブエージェント2件追加。ベンチマーク記述・ベンダーリンク削除の修正も（5コミット）。 |
 | [2026-10-06 03:15 UTC](./awesome-claude-code-subagents/2026-10-06T0315Z.md) | Official MCPサーバーバッジをREADMEに追加・更新。スポンサーセクション「AI Design + Build Ecosystem Tools」を末尾へ移動・集約（3コミット）。 |
 | [2026-09-22 03:07 UTC](./awesome-claude-code-subagents/2026-09-22T0307Z.md) | READMEに「AI Design + Build Ecosystem Tools」セクション新設。EveryFeed・LaunchKit・Mobile StarterKitの3スポンサーツールを追加（1コミット）。 |
 | [2026-09-15 03:05 UTC](./awesome-claude-code-subagents/2026-09-15T0305Z.md) | memory-curator追加（meta-orchestration、ストレージ非依存）、auth-integration-engineer・webhook-engineer追加、core-devREADMEの古いWordPress参照削除（7コミット）。 |
 | [2026-09-08 03:05 UTC](./awesome-claude-code-subagents/2026-09-08T0305Z.md) | SerpApiスポンサーリンクを汎用UTMパラメータURLからリポジトリ専用パスへ変更（1コミット）。 |
-| [2026-09-05 03:05 UTC](./awesome-claude-code-subagents/2026-09-05T0305Z.md) | SerpApiをスポンサーテーブルに追加。AIアプリ向けウェブ検索APIで、Markdown・JSON両形式対応（1コミット）。 |
 
 ---
 
