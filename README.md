@@ -32,8 +32,8 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-10-22 03:02 UTC](./superpowers/2026-10-22T0302Z.md) | v7.0.1リリース。brainstormingのbounded判定厳格化、SDDをresume-based fix loopに刷新しreferences分割、writing-skillsもreferences構成に整理、Hermesプラグインの起動注入をpre_llm_call方式に修正、完了済みプラン14件削除（1コミット）。 |
 | [2026-10-21 03:02 UTC](./superpowers/2026-10-21T0302Z.md) | GitHubイシュー・PRテンプレートを刷新。diagnosis_reportテンプレート廃止、各テンプレートに人間による要約と指示を必須化、AGENTS.mdおよびdiagnosing-superpowersスキルのissueテンプレートも改善（1コミット）。 |
 | [2026-10-10 03:14 UTC](./superpowers/2026-10-10T0314Z.md) | v7.0.0リリース。ブレインストーミングを全面再設計（3パスルーター・ビルダーチェック）、Antigravity Marketplaceプラグインマニフェスト追加、WindowsフックのGit Bash修正（1コミット）。 |
 | [2026-09-26 03:14 UTC](./superpowers/2026-09-26T0314Z.md) | v6.4.2リリース。writing-plansスキルをレシピ形式に刷新してプランを大幅簡素化、孤立したCodex session-start-codexフック削除、ドキュメント整理（1コミット）。 |
 | [2026-09-19 03:07 UTC](./superpowers/2026-09-19T0307Z.md) | v6.4.1リリース。diagnosing-superpowersスキル追加、ネイティブプラン実行スクリプト、OpenCode 2.0・Muse対応、Gemini CLI復活、writing-good-tests等スキル大規模リファクタリング（1コミット）。 |
-| [2026-08-13 03:07 UTC](./superpowers/2026-08-13T0307Z.md) | v6.3.0リリース。Devin CLI・Hermes Agent対応、ブレインストーミング3経路ルーター追加、SDD/Codex効率改善・CodexのSessionStartフック二重登録バグ修正（1コミット）。 |
