@@ -8,11 +8,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-11-03 03:00 UTC](./awesome-claude-code-subagents/2026-11-03T0300Z.md) | motion-directorサブエージェント追加。Three.js＋Playwright/FFmpegによる決定論的60FPS動画制作に特化（1コミット）。 |
 | [2026-10-31 03:02 UTC](./awesome-claude-code-subagents/2026-10-31T0302Z.md) | ux-microcopy-reviewer・ponder-auditorの新サブエージェント2件追加。YAMLフロントマタークォート修正（Windows CRLF対応）（6コミット）。 |
 | [2026-10-12 03:14 UTC](./awesome-claude-code-subagents/2026-10-12T0314Z.md) | surgeon-reviewer（重大度ティア型コードレビュー）・telegram-ads-analyst（Telegram広告分析）の新サブエージェント2件追加。ベンチマーク記述・ベンダーリンク削除の修正も（5コミット）。 |
 | [2026-10-06 03:15 UTC](./awesome-claude-code-subagents/2026-10-06T0315Z.md) | Official MCPサーバーバッジをREADMEに追加・更新。スポンサーセクション「AI Design + Build Ecosystem Tools」を末尾へ移動・集約（3コミット）。 |
 | [2026-09-22 03:07 UTC](./awesome-claude-code-subagents/2026-09-22T0307Z.md) | READMEに「AI Design + Build Ecosystem Tools」セクション新設。EveryFeed・LaunchKit・Mobile StarterKitの3スポンサーツールを追加（1コミット）。 |
-| [2026-09-15 03:05 UTC](./awesome-claude-code-subagents/2026-09-15T0305Z.md) | memory-curator追加（meta-orchestration、ストレージ非依存）、auth-integration-engineer・webhook-engineer追加、core-devREADMEの古いWordPress参照削除（7コミット）。 |
 
 ---
 
@@ -20,11 +20,11 @@ A daily update log for tracked GitHub repositories.
 
 | 確認日時 | 概要 |
 |----------|------|
+| [2026-11-03 03:00 UTC](./awesome-codex-subagents/2026-11-03T0300Z.md) | ponder-reviewerサブエージェント追加。Ponderプロトコルによるカバレッジゲート型マルチパスコードレビュー（skeptic/builder/dreamer/empathの4視点）（2コミット）。 |
 | [2026-10-31 03:02 UTC](./awesome-codex-subagents/2026-10-31T0302Z.md) | 全サブエージェントをGPT-6へ移行。DatabricksアーキテクトにLakebase・Databricks Appsのカバレッジを追加（4コミット）。 |
 | [2026-10-06 03:15 UTC](./awesome-codex-subagents/2026-10-06T0315Z.md) | Official MCPサーバーバッジをREADMEに追加・更新。スポンサーセクション「AI Design + Build Ecosystem Tools」を末尾へ移動・集約（3コミット）。 |
 | [2026-09-22 03:07 UTC](./awesome-codex-subagents/2026-09-22T0307Z.md) | READMEに「AI Design + Build Ecosystem Tools」セクション新設。EveryFeed・LaunchKit・Mobile StarterKitの3スポンサーツールを追加（1コミット）。 |
 | [2026-09-15 03:05 UTC](./awesome-codex-subagents/2026-09-15T0305Z.md) | quality-securityカテゴリにanti-ui-slop reviewerサブエージェント追加。UIスロップ（肥大化スタイリングコード）を検出・リファクタリング支援するCodexエージェント（3コミット）。 |
-| [2026-09-08 03:05 UTC](./awesome-codex-subagents/2026-09-08T0305Z.md) | SerpApiスポンサーリンクを汎用UTMパラメータURLからリポジトリ専用パスへ変更（1コミット）。 |
 
 ---
 
